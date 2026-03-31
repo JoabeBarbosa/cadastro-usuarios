@@ -23,8 +23,6 @@ This project was built as part of my **software development portfolio** to demon
 
 # Application Preview
 
-## User Registration Form
-
 ![Form Screenshot](docs/form.png)
 
 ---
